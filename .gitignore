@@ -7,4 +7,3 @@ __pycache__/
 
 # CRITICAL: Ignore large ML binaries and datasets
 data/
-models/
