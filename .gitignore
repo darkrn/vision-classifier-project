@@ -1,0 +1,10 @@
+# Python environment artifacts
+__pycache__/
+*.pyc
+
+# IDE configurations
+.vscode/
+
+# CRITICAL: Ignore large ML binaries and datasets
+data/
+models/
